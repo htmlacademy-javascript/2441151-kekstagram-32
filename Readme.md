@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Vasiliy Ryabinin](https://up.htmlacademy.ru/javascript/32/user/2441151).
-* Наставник: `Неизвестно`.
+* Наставник: [Денис Лопатин](https://htmlacademy.ru/profile/id1293419).
 
 ---
 
